@@ -1,3 +1,0 @@
-# About Test
-
-Start typing here...
