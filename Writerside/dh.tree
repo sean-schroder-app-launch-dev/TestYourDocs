@@ -4,7 +4,7 @@
 
 <instance-profile id="dh"
                  name="AppLaunch"
-                 start-page="starter-topic.md">
+                 start-page="getting-started.md">
 
-    <toc-element topic="starter-topic.md"/>
+    <toc-element topic="getting-started.md"/>
 </instance-profile>
