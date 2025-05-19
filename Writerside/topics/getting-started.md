@@ -1,10 +1,11 @@
 # Installation
 
 # App Launch Framework
-AppLaunch is an open source launch platform for .Net based web applications, designed to empower developers to rapidly develop and deliver line of business applications to their customers. This package is already included in the AppLaunch template and is highly recommended to start by following the instructions below.
+AppLaunch is an open source launch platform for .Net based web applications, designed to empower developers to rapidly 
+develop and deliver line of business applications to their customers. This package is already included in the AppLaunch 
+template and is highly recommended to start by following the instructions below.
 
 ## Tech Stack
-
 - .Net 9 & 10
 - Blazor Server
 - MudBlazor layout and components
